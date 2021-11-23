@@ -43,7 +43,7 @@ class Coinbase:
         print(information["date"])
         print(information["link"])
         if alert == 1:
-            playsound("audio.wav")
+            playsound("audio.mp3")
             print(
                 """#############################
                    #############################
